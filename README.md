@@ -1,7 +1,6 @@
-# tribute
+# Tribute
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is my tribute site for some of my favorite Dota 2 heros and a little about them. Just for funsies and freecodecamp.com.
 
 ## Prerequisites
 
