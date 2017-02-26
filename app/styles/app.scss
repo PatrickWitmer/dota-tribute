@@ -1,5 +1,21 @@
 $dotaOrange: #ff5422;
 
+// NAV BAR STUFFS
+.navbar {
+  margin-bottom: 0px;
+  height: 75px;
+}
+
+.navbar ul {
+  margin-top: 15px;
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+// END NAV BAR STUFFS
+
 h2 {
   color: $dotaOrange;
 }
@@ -21,12 +37,4 @@ h2 {
   left: -9999px;
   right: -9999px;
   margin: auto;
-}
-
-.navbar {
-  margin-bottom: 0px;
-}
-
-.navbar-brand img {
-    width: 50px;
 }
