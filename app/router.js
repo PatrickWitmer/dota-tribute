@@ -7,6 +7,10 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('treant');
+  this.route('necrophos');
+  this.route('juggernaut');
+  this.route('lich');
 });
 
 export default Router;

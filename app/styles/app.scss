@@ -3,21 +3,26 @@ $dotaOrange: #ff5422;
 // NAV BAR STUFFS
 .navbar {
   margin-bottom: 0px;
-  height: 75px;
 }
-
-.navbar ul {
-  margin-top: 15px;
-}
-
-.navbar-brand img {
-    width: 50px;
-}
+//
+// .navbar ul {
+//   margin-top: 15px;
+// }
+//
+// .navbar p {
+//   margin-top: 30px;
+//   margin-right: 15px;
+// }
+//
+// .navbar-brand img {
+//     width: 50px;
+// }
 
 // END NAV BAR STUFFS
 
 h2 {
   color: $dotaOrange;
+  padding-left: 15px;
 }
  .panel {
   min-height: calc(100vh - 63px);
