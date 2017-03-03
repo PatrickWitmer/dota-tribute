@@ -4,25 +4,11 @@ $dotaOrange: #ff5422;
 .navbar {
   margin-bottom: 0px;
 }
-//
-// .navbar ul {
-//   margin-top: 15px;
-// }
-//
-// .navbar p {
-//   margin-top: 30px;
-//   margin-right: 15px;
-// }
-//
-// .navbar-brand img {
-//     width: 50px;
-// }
-
 // END NAV BAR STUFFS
 
 h2 {
   color: $dotaOrange;
-  padding-left: 15px;
+
 }
  .panel {
   min-height: calc(100vh - 63px);
@@ -51,5 +37,5 @@ h2 {
   -webkit-column-count: 2;
   -moz-column-count: 2;
   column-count: 2;
-  padding: 15px;
+  
 }
