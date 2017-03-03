@@ -5,7 +5,7 @@ module.exports = function(environment) {
     modulePrefix: 'tribute',
     environment: environment,
     rootURL: '/tribute/',
-    locationType: 'auto',
+    locationType: 'hash',
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
