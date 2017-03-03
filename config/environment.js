@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'tribute',
     environment: environment,
-    rootURL: '/tribute',
+    rootURL: '/',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
