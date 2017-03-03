@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'tribute',
     environment: environment,
-    rootURL: '/',
+    rootURL: '/tribute/',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
@@ -43,7 +43,7 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-      ENV.baseURL='/tribute/';
+      ENV.baseURL='/';
   }
 
   return ENV;
