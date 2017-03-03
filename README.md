@@ -22,7 +22,7 @@ You will need the following things properly installed on your computer.
 ## Running / Development
 
 * `ember serve`
-* Visit your app at [http://localhost:4200/tribute](http://localhost:4200/tribute).
+* Visit your app at [http://localhost:4200/tribute/](http://localhost:4200/tribute/).
 
 ### Code Generators
 
