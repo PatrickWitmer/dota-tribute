@@ -16,3 +16,12 @@ App = Ember.Application.extend({
 loadInitializers(App, config.modulePrefix);
 
 export default App;
+
+//Check status code of api and return 200,300,400,500
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "https://api.opendota.com/api/heroStats", false);
+xhr.send();
+
+console.log(xhr.status);
+console.log(xhr.hero_id);
+//END STATUS CODE
