@@ -11,6 +11,7 @@ Router.map(function() {
   this.route('necrophos');
   this.route('juggernaut');
   this.route('lich');
+  this.route('hero', { path: '/hero/:id' });
 });
 
 export default Router;
