@@ -2,6 +2,7 @@
 
 This is my tribute site for some of my favorite Dota 2 heros and a little about them. Just for funsies and freecodecamp.com.
 
+[View live.](https://witmerdesigns.com/tribute)
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
